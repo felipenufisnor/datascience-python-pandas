@@ -1,4 +1,3 @@
-# python-pandas-datascience1
 Python Pandas: handling and analyzing data
 
 I imported data and exported dataframes;
